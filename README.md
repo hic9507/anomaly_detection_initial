@@ -1,6 +1,6 @@
 # Anomaly Detection-Initial Version
 
-## 2d cnn
+## 2D CNN
 densenet_cbam.py(densenet과 cbam을 결합한 네트워크)
 
 densenet_cbam_lstm.py(densenet, cbam, lstm을 결합한 네트워크)
@@ -13,7 +13,7 @@ resnet_cbam_lstm.py(resnet50과 cbam과 lstm을 결합한 네트워크)
 
 train_video.py
 
-## 3d cnn
+## 3D CNN
 I3D_cbam.py(i3d와 cbam을 결합한 네트워크)
 
 I3D.py
